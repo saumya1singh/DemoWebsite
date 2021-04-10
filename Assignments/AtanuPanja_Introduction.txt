@@ -1,0 +1,5 @@
+Hello, I am Atanu Panja.
+Greatly enjoyed learning using git and github.
+This is a try to make my first pull request using the step-by-step approach discussed by you.
+
+Thank You. :)
